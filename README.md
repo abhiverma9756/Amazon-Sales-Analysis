@@ -63,13 +63,3 @@ The dataset contains summarized Amazon sales information across different report
 
 ---
 
-## 🔍 Project Workflow
-
-### 1️⃣ Data Loading
-
-Loaded the CSV dataset using Pandas.
-
-```python
-import pandas as pd
-
-df = pd.read_csv("amazon_sales_2025_INR_cleaned.csv")
